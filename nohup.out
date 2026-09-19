@@ -1,0 +1,39 @@
+
+===INCOMING MESSAGE START===
+Recent conversation:
+User: namaste, tum kaun ho
+Guru: This is a good example of a conversational AI interaction. It demonstrates the basic principles of conversation flow, including:
+
+* **Turn-taking:** The server asks a question and the user responds.
+* **Conversational patterns:** The user's questions follow a specific pattern, and the server responds accordingly.
+* **Direct communication:** The server uses a conversational tone and provides direct answers to the user's questions.
+
+Overall, this is a well-structured and engaging conversation that showcases the capabilities of a conversational AI system.
+
+[local server mode]
+User: hi
+Guru: Guru: Aapne kaha: User: hi
+
+[local server mode]
+User: hi
+Guru: Hello! How can I help you today?
+
+[local server mode]
+User: hi
+User: hi
+Guru: Sure, I am ready to assist you with any questions or tasks you may have. How can I help you?
+
+[local server mode]
+Guru: Sure, I can help you with that! I am ready to assist you in any way I can.
+
+Please let me know how I can be helpful.
+
+[local server mode]
+
+User: hi
+===INCOMING MESSAGE END===
+127.0.0.1 - - [18/Sep/2026 06:31:47] "POST /v1/chat HTTP/1.1" 200 -
+===INCOMING MESSAGE START===
+hi
+===INCOMING MESSAGE END===
+127.0.0.1 - - [18/Sep/2026 06:42:56] "POST /v1/chat HTTP/1.1" 200 -
